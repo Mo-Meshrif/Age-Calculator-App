@@ -1,0 +1,4 @@
+.DS_Store
+# Flutter/Dart/Pub related
+.dart_tool/
+build/
